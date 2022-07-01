@@ -1,5 +1,5 @@
 
-// monitor intent access api like strating receving intents
+// monitor intent access api like starting receving intents
 
 Java.perform(function () {
    var act = Java.use("android.app.Activity");
